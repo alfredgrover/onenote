@@ -144,7 +144,7 @@ B --> D{菱形}
 C --> D
 
 > 块引用
-
+![输入图片说明](https://raw.githubusercontent.com/alfredgrover/onenote/master/imgs/2024-07-31/MuAeVcIVuKJETHOQ.jpeg)
 ```
 |  |  |
 |--|--|
@@ -155,6 +155,6 @@ C --> D
 
 full page
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxNjYyNDg2LC0xNDgzNTAzOTI0LC0xMz
-U4MTgxOTkzXX0=
+eyJoaXN0b3J5IjpbNzM0MDcwMTQ1LDk2MTY2MjQ4NiwtMTQ4Mz
+UwMzkyNCwtMTM1ODE4MTk5M119
 -->
